@@ -1,1 +1,21 @@
-loan_default_model.pkl
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# VS Code / IDE
+.vscode/
+.idea/
